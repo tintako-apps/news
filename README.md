@@ -2,7 +2,7 @@
 
 # News
 
-A calm news reader for the Mudita Kompakt, designed for E Ink. You choose the sources, and there is no account and no feed algorithm.
+A calm news reader, designed for E Ink. You choose the sources, and there is no account and no feed algorithm.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
 
@@ -24,4 +24,4 @@ A calm news reader for the Mudita Kompakt, designed for E Ink. You choose the so
 - Camera: only to scan a QR code, while the scanner is open
 
 ## Install
-Download the latest APK from [Releases](../../releases/latest) and install it on your Kompakt with Mudita Center.
+Download the latest APK from [Releases](../../releases/latest) and install it on your E Ink device.
