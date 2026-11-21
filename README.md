@@ -11,7 +11,9 @@ A calm news reader made for E Ink. You choose the sources, and there is no accou
 - **Today:** the newest stories from all the sources you follow
 - **Following:** manage your sources
 - **Add source:** tap the black + and type a site's link or its RSS link; the app finds the feed
-- **QR scan:** send a link from your computer by scanning it
+- **QR scan:** send a link from your computer by scanning it, with a flashlight for dark rooms
+- **RSS links:** other apps can open RSS and Atom links with News; you follow the source with a tap on +
+- **Widget:** the three newest headlines and a refresh key on Tintako Launcher
 - **Clean reader:** articles without the clutter around them
 - **Reading options:** text size, Lato or serif font, and a switch for pictures
 - **Saved:** keep stories for offline reading
@@ -21,7 +23,7 @@ A calm news reader made for E Ink. You choose the sources, and there is no accou
 
 ## Permissions
 - Internet: to download feeds, articles and pictures
-- Camera: only to scan a QR code, while the scanner is open
+- Camera: only to scan a QR code, while the scanner is open; asked once, and you can allow it later under Settings → General
 
 ## Install
 Download the latest APK from [Releases](../../releases/latest) and install it on your device.
